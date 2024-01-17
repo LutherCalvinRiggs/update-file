@@ -1,0 +1,16 @@
+{
+  "name": "update-file",
+  "version": "1.0.0",
+  "description": "A NodeJS package to update bulk data from .js/.json files.",
+  "main": "update-json.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-json": "node update-json.mjs",
+    "update-js": "node update-js.mjs"
+  },
+  "author": "Luther Riggs",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
