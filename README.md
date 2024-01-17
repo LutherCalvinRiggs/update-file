@@ -10,13 +10,15 @@
   nvm use
 ```
 
-# Run and update module
+# Run an update module
+
+For updating .json files
 
 ```
   npm run update-json
 ```
 
-# or
+For updating .js files (WIP)
 
 ```
   npm run update-js
