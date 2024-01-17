@@ -1,7 +1,7 @@
 # Install Node packages
 
 ```
-  npm run add
+  npm install
 ```
 
 # Set the Node version based on the .nvmrc file
